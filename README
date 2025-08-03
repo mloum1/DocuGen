@@ -26,3 +26,10 @@ DocumentGenerator/
 │
 └── app/                    # Module application / exemple d’utilisation
     └── src/main/java/...
+
+
+## 🧩 Dépendances par module
+
+### 📄 `pdf-generator`
+```gradle
+implementation 'com.itextpdf:itext7-core:7.2.
