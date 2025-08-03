@@ -36,3 +36,11 @@ implementation 'com.itextpdf:itext7-core:7.2.
 
 ### 📄 `xlsx-generator`
 ```gradle
+implementation 'org.apache.poi:poi-ooxml:5.2.3'
+
+### 📄 `json-generator`
+```gradle
+implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+
+
+https://developer.android.com/develop/ui/compose/tutorial?hl=fr
