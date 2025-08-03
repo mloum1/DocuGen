@@ -1,4 +1,10 @@
-#DocUGen 
+# 📄 DocUGen – Socle de génération de documents multi-formats
+
+**DocUGen** est un socle modulaire Java conçu pour générer des documents dans divers formats (PDF, XLSX, CSV, JSON), intégrer des codes-barres, et produire des fichiers complexes via les bibliothèques les plus puissantes comme **iText**, **Apache POI**, **Jackson**, **Aspose**, et **ZXing**.
+
+---
+
+## 🧱 Architecture du projet
 
 
 DocumentGenerator/
