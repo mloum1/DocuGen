@@ -33,3 +33,6 @@ DocumentGenerator/
 ### 📄 `pdf-generator`
 ```gradle
 implementation 'com.itextpdf:itext7-core:7.2.
+
+### 📄 `xlsx-generator`
+```gradle
