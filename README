@@ -1,1 +1,22 @@
-# PDFToolKit-itext
+#DocUGen 
+
+
+DocumentGenerator/
+│
+├── core/                   # Module commun (interfaces, utilitaires, etc.)
+│   └── src/main/java/...
+│
+├── pdf-generator/          # Module génération PDF avec iText
+│   └── src/main/java/...
+│
+├── xlsx-generator/         # Module génération XLSX avec Apache POI
+│   └── src/main/java/...
+│
+├── csv-generator/          # Module génération CSV (utilitaire Java natif)
+│   └── src/main/java/...
+│
+├── json-generator/         # Module génération JSON avec Jackson ou Gson
+│   └── src/main/java/...
+│
+└── app/                    # Module application / exemple d’utilisation
+    └── src/main/java/...
